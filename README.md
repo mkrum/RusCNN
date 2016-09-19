@@ -1,7 +1,7 @@
 This was a project I did for my data science class over the summer of 2016. This is a convolutional neural network that attempts to distinguish between three different artistic styles: realism, surrealism, and abstract. Here are the results I achieved:
 
-![alt tag](https://raw.githubusercontent.com/mkrum/RusCNN/images/models.png)
-![alt tag](https://raw.githubusercontent.com/mkrum/RusCNN/images/compare.png)
+![alt tag](https://github.com/mkrum/RusCNN/blob/master/images/compare.png)
+![alt tag](https://github.com/mkrum/RusCNN/blob/master/images/models.png)
 
 I used two models: a classical LeNet Model and a model that used inception layers. To run these, use:
 
